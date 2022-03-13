@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:StudySwift/circularReference.playground">
+   </FileRef>
+   <FileRef
       location = "group:StudySwift/initilizers.playground">
    </FileRef>
 </Workspace>
